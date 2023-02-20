@@ -1,11 +1,16 @@
 _repo: Case-of-Filaria-loa_69927
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69927-h/images/cover.jpg
 creator:
   author:
     agent_name: Robertson, D. Argyll
     gutenberg_agent_id: '55496'
     url: http://www.gutenberg.org/2009/agents/55496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69927#Case-of-Filaria-loa
 gutenberg_issued: '2023-02-01'
 identifiers:
   gutenberg: '69927'
